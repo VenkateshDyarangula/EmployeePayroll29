@@ -1,0 +1,12 @@
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployePayrollUsingThreads.exe
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployePayrollUsingThreads.deps.json
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployePayrollUsingThreads.runtimeconfig.json
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployePayrollUsingThreads.runtimeconfig.dev.json
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployePayrollUsingThreads.dll
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\bin\Debug\netcoreapp3.1\EmployePayrollUsingThreads.pdb
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployePayrollUsingThreads.AssemblyInfoInputs.cache
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployePayrollUsingThreads.AssemblyInfo.cs
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployePayrollUsingThreads.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployePayrollUsingThreads.dll
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployePayrollUsingThreads.pdb
+C:\Users\venky\source\repos\Threads\EmployePayrollUsingThreads\obj\Debug\netcoreapp3.1\EmployePayrollUsingThreads.genruntimeconfig.cache
